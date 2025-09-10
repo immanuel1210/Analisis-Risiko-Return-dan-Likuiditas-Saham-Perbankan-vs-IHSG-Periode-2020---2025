@@ -1,7 +1,7 @@
-# Analisis-Risiko-Return-dan-Likuiditas-Saham-Perbankan-vs-IHSG-Periode-2020---2025
-Key Findings: Bank Stocks vs IHSG (2020–2025)
+# Analisis Risiko Return dan Likuiditas Saham Perbankan vs IHSG Periode 2020 - 2025
 
-Performance (Return)
+Key Findings: Bank Stocks vs IHSG (2020–2025)
+- Performance (Return)
 
 BMRI (Bank Mandiri) recorded the highest return (~67%), outperforming BBRI, BBNI, and the IHSG.
 
